@@ -11,3 +11,6 @@ AI와 함께하는 새로운 코딩 패러다임, Vibe Coding을 소개하는 �
 - HTML5
 - CSS3 (Variables, Flexbox, Grid)
 - Vanilla JavaScript
+
+# study-page
+
