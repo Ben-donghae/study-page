@@ -3,7 +3,8 @@
 import Container from '@/components/layout/Container';
 import Image from 'next/image';
 import { useState, useEffect, useCallback } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
+
 import ScrollReveal from '@/components/layout/ScrollReveal';
 
 const businessModels = [

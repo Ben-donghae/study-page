@@ -2,7 +2,7 @@
 
 import Container from '@/components/layout/Container';
 import ScrollReveal from '@/components/layout/ScrollReveal';
-import { motion } from 'framer-motion';
+
 
 export default function BusinessStrategyPage() {
     return (

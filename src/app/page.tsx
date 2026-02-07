@@ -47,7 +47,7 @@ export default function Home() {
 
             <ScrollReveal delay={0.6}>
               <p className="text-xl md:text-2xl font-bold text-slate-800 leading-relaxed">
-                "세계와 연결하는 연결의 힘을 담다" <br />
+                &quot;세계와 연결하는 연결의 힘을 담다&quot; <br />
                 <span className="text-lg font-normal text-slate-500 mt-4 block">
                   KORIA는 유통과 컨텐츠 혁신으로 새로운 글로벌 소비 생태계를 창조하며, <br className="hidden md:block" />
                   AI 기반 O2O 기술로 차별화된 테마 상품을 전 세계로 연결합니다.

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import Container from '../layout/Container';
 
 const strategyItems = [
@@ -79,8 +79,8 @@ export default function O2OStrategy() {
                                 }}
                                 transition={{ duration: 0.8, ease: "easeInOut" }}
                                 className={`p-10 rounded-[2.5rem] text-center space-y-6 border transition-colors duration-500 ${isActive
-                                        ? "bg-white border-blue-200"
-                                        : "bg-white/50 border-blue-50"
+                                    ? "bg-white border-blue-200"
+                                    : "bg-white/50 border-blue-50"
                                     }`}
                             >
                                 <motion.div

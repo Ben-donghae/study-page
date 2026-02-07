@@ -7,7 +7,7 @@ export default function AboutPage() {
                 <Container>
                     <span className="text-blue-400 font-bold uppercase tracking-widest text-sm mb-4 block">About KORIA</span>
                     <h1 className="text-4xl md:text-6xl font-black mb-8 leading-tight">
-                        세계를 연결하는<br />핵심 무역 허브
+                        &quot;공간과 시간을 초월한 연결&quot; <br />핵심 무역 허브
                     </h1>
                     <p className="text-slate-400 text-lg md:text-xl max-w-3xl font-light">
                         KORIA는 글로벌 무역 플랫폼으로서 AI와 O2O 기술을 활용하여 유통과 콘텐츠의 경계를 혁신합니다.
@@ -42,7 +42,7 @@ export default function AboutPage() {
                         </div>
                     </div>
                     <p className="text-center mt-16 text-2xl font-bold text-slate-800">
-                        "세계와 연결하는 연결의 힘을 담다"
+                        &quot;세계와 연결하는 연결의 힘을 담다&quot;
                     </p>
                 </div>
 
