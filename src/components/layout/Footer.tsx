@@ -27,10 +27,10 @@ export default function Footer() {
                     <div>
                         <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">Contact</h3>
                         <ul className="space-y-3 text-sm">
-                            <li>대표: 김상윤 (Ktercommerce)</li>
-                            <li>사업자등록번호: 423-05-03170</li>
-                            <li>주소: 경기 화성시 동탄중심상가2길 26-15, 8층</li>
-                            <li>이메일: hoya843@naver.com</li>
+                            <li>대표: 박동해</li>
+                            <li>사업자등록번호: 123456789</li>
+                            <li>주소: 서울특별시 종로구 창덕궁5길 22-8</li>
+                            <li>이메일: pdh0817@taejae.ac.kr</li>
                         </ul>
                     </div>
                 </div>
